@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
+  selector: 'my-app',
   styleUrls: ['./app.component.css'],
   template: '<router-outlet></router-outlet>'
 })

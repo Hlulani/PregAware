@@ -1,9 +1,8 @@
 import { Component } from '@angular/core';
 
 @Component({
-
-  styleUrls: [''],
-  template: '<router-outlet></router-outlet>'
+  templateUrl: './ovulation-calendar.component.html',
+  styleUrls: ['./ovulation-calendar.component.scss']
 })
 
 export class OvulationCalendarComponent  { }

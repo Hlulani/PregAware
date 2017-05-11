@@ -1,0 +1,15 @@
+
+/* You can add global styles to this file, and also import other style files */
+@import './scss/components/buttons';
+@import './scss/base/typography';
+
+
+body, html {
+  height:100%;
+}
+
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
